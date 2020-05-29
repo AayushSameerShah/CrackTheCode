@@ -4,4 +4,4 @@ Hello, Here I present the simple program, where you have to find the code which 
 <strong> Just Run the .py file </strong>
 <br>
 
-<p style="border-left:2px solid green"> If you are curious, how I performed the project, then try the open with... </p>
+ If you are curious, how I performed the project, then try the open with...
